@@ -7,7 +7,8 @@ function App() {
       <Fruits/>
       <Fruits/>
       <Fruits/>
-      <Fruits/>
+      
+      
       
     </div>
   );

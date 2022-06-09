@@ -6,7 +6,7 @@ function Fruits(){
     return(
         <div className="main">
           <div className="rasm">
-            
+
           </div>
           <div className="malumotlar">
             <div className="top">
